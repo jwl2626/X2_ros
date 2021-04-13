@@ -1,0 +1,5 @@
+F107RC为 STM32固件源码
+
+如果只购买了stm32底盘，则需要自已用ROS包对接STM32底盘
+xrobot_serial_ROS.tar为相应的ROS层USB串口对接软件包源码
+

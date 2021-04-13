@@ -1,0 +1,15 @@
+2017-11-28 V3版本树莓派固件，ROS虚拟机，使用手册V3
+
+2017-10-20
+XRobot STM32 V2.1 GY85 PS2手柄增加 5轴机械手臂控制，增加turtlebot_arm操作接口
+
+2017-09-30
+XRobot STM32 MPU9250 9150 6050 6500 DMP模式
+
+2017-09-10
+XRobot STM32 V1.1 GY85	PID与指令周期分离，可降低上位机CMD指令发送频率
+XRobot ROS WS V1.1	上位机CMD指令发送频率降到5，增加DMP模式，兼容GY85
+
+2016-12-15
+XRobot STM32 V1.0 GY85
+XRobot ROS WS V1.0
